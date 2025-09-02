@@ -7,4 +7,3 @@ target adul
 - paham next js
 - magang + skripsi
 - upgrade pengalaman
-- pangandaran trip 
