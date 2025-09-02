@@ -3,3 +3,4 @@ target adul
 - bisa git dan github
 - bisa react
 - bisa typescript
+- magang + skripsi
