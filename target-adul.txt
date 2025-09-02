@@ -4,3 +4,4 @@ target adul
 - bisa react
 - bisa typescript
 - magang + skripsi
+- upgrade pengalaman
