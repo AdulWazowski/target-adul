@@ -5,3 +5,4 @@ target adul
 - bisa typescript
 - magang + skripsi
 - upgrade pengalaman
+- pangandaran trip 
