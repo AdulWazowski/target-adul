@@ -3,6 +3,6 @@ target adul
 - bisa git dan github
 - bisa react
 - bisa typescript
+- bisa astro
 - magang + skripsi
 - upgrade pengalaman
-- pangandaran trip 
