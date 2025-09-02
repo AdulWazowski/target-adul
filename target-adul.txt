@@ -3,6 +3,7 @@ target adul
 - bisa git dan github
 - bisa react
 - bisa typescript
-- bisa astro
+- bisa framework astro
+- paham next js
 - magang + skripsi
 - upgrade pengalaman
