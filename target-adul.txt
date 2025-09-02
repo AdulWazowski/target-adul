@@ -1,0 +1,5 @@
+target adul
+- fokus frontend
+- bisa git dan github
+- bisa react
+- bisa typescript
