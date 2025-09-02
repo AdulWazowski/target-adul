@@ -4,6 +4,7 @@ target adul
 - bisa react
 - bisa typescript
 - bisa framework astro
+- paham next js
 - magang + skripsi
 - upgrade pengalaman
 - pangandaran trip 
